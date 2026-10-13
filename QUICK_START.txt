@@ -1,0 +1,22 @@
+CAFE MANAGEMENT SYSTEM - QUICK START
+====================================
+
+1. Start MySQL/MariaDB (for example XAMPP MySQL).
+2. Import: cafe_management_system_db.sql
+   Database created automatically: cafe_management_system_db
+3. Open Apache NetBeans.
+4. File > Open Project > select Cafe_Management_System.
+5. Run Project.
+6. Login:
+      Username: admin
+      Password: 123
+
+DATABASE SETTINGS
+Host: localhost
+Port: 3306
+Database: cafe_management_system_db
+User: root
+Password: empty
+
+IMPORTANT
+This is the normal database-backed version. It does not use offline/demo fallback data.
